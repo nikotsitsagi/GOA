@@ -19,11 +19,3 @@ print(type(name))
 print(type(age))
 print(type(height))
 print(type(is_futureprogrammer))
-
-
-
-username = "magician"
-points = 50
-lives = 3
-print(username)
-print(points)

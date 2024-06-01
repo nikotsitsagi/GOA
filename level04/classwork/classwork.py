@@ -22,3 +22,10 @@ price = 5
 discount = 40 / 100
 price2 = price * discount
 print(price2)
+
+
+credit = 300
+Credit = 280
+CREDIT = 320
+
+print(credit)
